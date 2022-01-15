@@ -38,7 +38,7 @@
         "reflect-metadata": "^0.1.12",
         "rimraf": "^2.6.2",
         "rxjs": "^6.3.3",
-        "shelljs": "^0.8.3",
+        "shelljs": "^0.8.5",
         "typeorm": "^0.2.20",
         "uuid": "^3.3.2"
     },
